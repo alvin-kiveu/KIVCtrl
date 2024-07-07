@@ -11,5 +11,9 @@ KIVCtrl is an open-source web-based server management dashboard for Ubuntu serve
 ## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/PHPServerAdmin.git
+
+```sh
+git clone https://github.com/alvin-kiveu/KIVCtrl.git
+```
+
+
